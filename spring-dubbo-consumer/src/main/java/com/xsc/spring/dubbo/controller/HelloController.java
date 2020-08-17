@@ -13,6 +13,9 @@ import server.ServerApi;
  */
 @RestController
 public class HelloController {
+    /**
+     * 注意版本号 不然找不到提供者
+     */
     @Reference(version = "1.0.0")
     private ServerApi serverApi;
 

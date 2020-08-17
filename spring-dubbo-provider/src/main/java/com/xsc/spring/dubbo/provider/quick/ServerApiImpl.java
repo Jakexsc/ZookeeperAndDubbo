@@ -5,6 +5,7 @@ import org.springframework.stereotype.Component;
 import server.ServerApi;
 
 /**
+ * 注意版本号
  * @author JakeXsc
  * @version 1.0
  * @date 2020/8/17 20:31
